@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hostel_allocation_assignment/static/css/main.8334e1b7.chunk.css",
+    "main.js": "/hostel_allocation_assignment/static/js/main.0be6e8a2.chunk.js",
+    "main.js.map": "/hostel_allocation_assignment/static/js/main.0be6e8a2.chunk.js.map",
+    "runtime-main.js": "/hostel_allocation_assignment/static/js/runtime-main.971890a0.js",
+    "runtime-main.js.map": "/hostel_allocation_assignment/static/js/runtime-main.971890a0.js.map",
+    "static/js/2.60dbd90c.chunk.js": "/hostel_allocation_assignment/static/js/2.60dbd90c.chunk.js",
+    "static/js/2.60dbd90c.chunk.js.map": "/hostel_allocation_assignment/static/js/2.60dbd90c.chunk.js.map",
+    "static/js/3.de2f7bf2.chunk.js": "/hostel_allocation_assignment/static/js/3.de2f7bf2.chunk.js",
+    "static/js/3.de2f7bf2.chunk.js.map": "/hostel_allocation_assignment/static/js/3.de2f7bf2.chunk.js.map",
+    "index.html": "/hostel_allocation_assignment/index.html",
+    "static/css/main.8334e1b7.chunk.css.map": "/hostel_allocation_assignment/static/css/main.8334e1b7.chunk.css.map",
+    "static/js/2.60dbd90c.chunk.js.LICENSE.txt": "/hostel_allocation_assignment/static/js/2.60dbd90c.chunk.js.LICENSE.txt",
+    "static/media/boy.67941536.PNG": "/hostel_allocation_assignment/static/media/boy.67941536.PNG",
+    "static/media/girl.016b1101.PNG": "/hostel_allocation_assignment/static/media/girl.016b1101.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.971890a0.js",
+    "static/js/2.60dbd90c.chunk.js",
+    "static/css/main.8334e1b7.chunk.css",
+    "static/js/main.0be6e8a2.chunk.js"
+  ]
+}
